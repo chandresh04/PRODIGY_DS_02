@@ -55,6 +55,29 @@ The following visualizations were created:
 - Fare shows a positive relationship with survival.
 
 ---
+## 📊 Sample Visualizations
+
+### Passenger Survival Distribution
+
+![Passenger Survival Distribution](images/survival_distribution.png)
+
+---
+
+### Gender Distribution
+
+![Gender Distribution](images/gender_distribution.png)
+
+---
+
+### Passenger Class Distribution
+
+![Passenger Class Distribution](images/passenger_class_distribution.png)
+
+---
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ## 📁 Project Structure
 
